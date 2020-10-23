@@ -1,4 +1,4 @@
-package com.example.aplikasi_pertamaku
+package com.new.firstapp.xdfiz
 
 import io.flutter.embedding.android.FlutterActivity
 
