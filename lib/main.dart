@@ -1,4 +1,4 @@
-import 'package:aplikasi_pertamaku/home.dart';
+import 'package:revisi_first_app/home.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
         primarySwatch: Colors.red,
         visualDensity: VisualDensity.adaptivePlatformDensity,
       ),
-      home: Page1(),
+      home: Homepage(),
       debugShowMaterialGrid: false,
     );
   }

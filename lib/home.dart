@@ -1,14 +1,13 @@
-import 'package:aplikasi_pertamaku/register.dart';
+import 'package:revisi_first_app/register.dart';
 import 'package:flutter/material.dart';
 
-class Page1 extends StatefulWidget {
+class Homepage extends StatefulWidget {
   @override
-  _Page1State createState() => _Page1State();
+  _HomepageState createState() => _HomepageState();
 }
 
-class _Page1State extends State<Page1> {
+class _HomepageState extends State<Homepage> {
   bool val = false;
-
   @override
   Widget build(BuildContext context) {
     return Scaffold(
